@@ -13,3 +13,6 @@
 [submodule "free-code-camp-sert/boilerplate-project-headerparser"]
 	path = free-code-camp-sert/boilerplate-project-headerparser
 	url = https://github.com/freeCodeCamp/boilerplate-project-headerparser.git
+[submodule "free-code-camp-sert/boilerplate-project-urlshortener"]
+	path = free-code-camp-sert/boilerplate-project-urlshortener
+	url = https://github.com/freeCodeCamp/boilerplate-project-urlshortener.git
