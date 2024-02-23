@@ -7,3 +7,6 @@
 [submodule "free-code-camp-sert/boilerplate-mongomongoose"]
 	path = free-code-camp-sert/boilerplate-mongomongoose
 	url = https://github.com/freeCodeCamp/boilerplate-mongomongoose.git
+[submodule "free-code-camp-sert/boilerplate-project-timestamp"]
+	path = free-code-camp-sert/boilerplate-project-timestamp
+	url = https://github.com/freeCodeCamp/boilerplate-project-timestamp.git
