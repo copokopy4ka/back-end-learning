@@ -4,3 +4,6 @@
 [submodule "free-code-camp-sert/boilerplate-express"]
 	path = free-code-camp-sert/boilerplate-express
 	url = https://github.com/freeCodeCamp/boilerplate-express.git
+[submodule "free-code-camp-sert/boilerplate-mongomongoose"]
+	path = free-code-camp-sert/boilerplate-mongomongoose
+	url = https://github.com/freeCodeCamp/boilerplate-mongomongoose.git
