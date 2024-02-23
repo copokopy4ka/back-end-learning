@@ -1,0 +1,3 @@
+[submodule "free-code-camp-sert/boilerplate-npm"]
+	path = free-code-camp-sert/boilerplate-npm
+	url = https://github.com/freeCodeCamp/boilerplate-npm.git/
